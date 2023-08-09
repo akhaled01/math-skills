@@ -1,0 +1,14 @@
+Yoooooooooo Auditor
+
+How You doin?
+
+This project is simple. recieve a file with statistical data and
+return some statistical analysis. This time, the language used is
+java (needed to get ready for uni lol) so have fun!
+
+Also shoutout to yaman for being the most goated java teacher (seriously I got into
+coding primarily due to how passionate he was).
+
+sincerely,
+Abdulrahman Khaled (akhaled)
+
