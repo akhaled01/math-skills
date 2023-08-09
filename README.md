@@ -11,7 +11,6 @@ throw an exception.
 The program was written in Java, to run:
 
 1. Navigate to project and open in terminal
-2. Type `javac mainprog.java`
-3. Type `java mainprog <path to file>`
+2. Type `./run.sh <File Path>`
 
 Be sure to read AUDITOR.txt for more info.
