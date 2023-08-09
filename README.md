@@ -14,5 +14,4 @@ The program was written in Java, to run:
 2. Type `javac mainprog.java`
 3. Type `java mainprog <path to file>`
 
-sssssssssssssssssssssssssssssss
 Be sure to read AUDITOR.txt for more info.
