@@ -2,7 +2,7 @@
 
 Project Math-skills is a basic statistical population analyser
 
-Input: .txt file with statistical data (format of file defined in Intra)
+Input: .txt file with statistical data (format of file defined in Intra) <br>
 Output: Average, median, Variance, deviation
 
 The program accepts 1 terminal argument ONLY. Empty arguments will
@@ -14,4 +14,5 @@ The program was written in Java, to run:
 2. Type `javac mainprog.java`
 3. Type `java mainprog <path to file>`
 
+sssssssssssssssssssssssssssssss
 Be sure to read AUDITOR.txt for more info.
